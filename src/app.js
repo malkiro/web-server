@@ -9,7 +9,7 @@ const geocode = require("./utils/geocode.js");
 const app = express();
 
 console.log(process.env.PORT);
-// console.log("Hello");
+console.log("Hello");
 
 
 // const port = process.env.PORT || 3000;
